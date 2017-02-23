@@ -1,0 +1,6 @@
+/* Pizza Practice Problem
+* We use 0-based coordinates
+* Each cell contains M for mushroom or T for tomato.
+* A slice is at least of size 2x2 - rectangular!
+* Slice must contain L cells of each ingedient and at most H cells of any kind.
+*/
